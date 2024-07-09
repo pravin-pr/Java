@@ -1,3 +1,10 @@
+Output:
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+
 import java.util.*;
 public class pattern1 {
     public static void main(String[] arg){
@@ -12,9 +19,4 @@ public class pattern1 {
 
     }
 }
-Output:
-A 
-B B 
-C C C 
-D D D D 
-E E E E E 
+
